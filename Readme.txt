@@ -5,7 +5,6 @@ Welcome to Barkonut OS, a joyful, emotionally safe operating system handcrafted 
 🧸 Features:
 - Bootloader and kernel modules (mascot-powered)
 - Badge unlock system and emotional safety modules
-- HUD dashboard and mascot rituals
 - Folder tree: boot, kernel-core, apps, and Desktop
 
 📦 Included Files:
